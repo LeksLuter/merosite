@@ -57,7 +57,7 @@ h6 {
   text-align: center;
   line-height: 1;
   font-size: 16px;
-  border-radius: 50%;
+  border-radius: 5%;
   right: 15px;
   bottom: 15px;
   transition: background 0.5s;
@@ -758,6 +758,7 @@ margin-bottom: 25px;
   color: #fff;
   background: #1bb1dc;
   color: #fff;
+  margin-right: 20px;
 }
 
 #features .intro-info .btn-get-started:hover,
