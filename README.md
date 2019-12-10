@@ -1,1 +1,1 @@
-# getmero.com
+# merocoin.site
